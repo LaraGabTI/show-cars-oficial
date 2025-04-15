@@ -39,6 +39,6 @@ A interface apresenta uma tela de login moderna, com identidade visual voltada a
 
 ## 📷 Tela Inicial
 
-![Login Preview](./login-preview.png)
+![945ff8fc-a0d8-45ca-ba75-3d8f53e50238](https://github.com/user-attachments/assets/882ae1d3-ef19-4da7-8833-f286dca0894b)
 
 ---
